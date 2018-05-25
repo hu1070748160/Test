@@ -1,0 +1,4 @@
+1.npm install create-react-app -g
+2.create-react-app Ãû³Æ
+Â·ÓÉ£º
+Property or method "e" is not

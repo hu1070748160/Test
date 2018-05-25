@@ -1,0 +1,6 @@
+1.cnpm install -g vue-cli//全局安装vue-cli
+2.vue init webpack-simple myproject//初始化
+3.cd myproject//进入到myproject文件夹
+4.cnpm install//下载myproject下的所有包
+5.npm run dev//运行dev
+6.num run build//打包
